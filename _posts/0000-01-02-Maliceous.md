@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Who am I?"
 ---
-This is where the fun begins
-Use the left arrow to go back!
+Hello. I am Nathan Mai. I was born july 30, 2005, in Brandon, Florida.
+I am a sophmore student at Dobyns-Bennett Highschool. 
+I am creating this to showcase the things I learn and create throughout my 2021 Coding class.
